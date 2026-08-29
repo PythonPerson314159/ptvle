@@ -1,0 +1,2 @@
+﻿stop_id,stop_name,stop_lat,stop_lon,stop_url,location_type,parent_station,wheelchair_boarding,level_id,platform_code
+1000,Dole Ave/Cheddar Rd,-37.70077481,145.01895105,https://transport.vic.gov.au/stop/10056/?utm_source=open_data_click_stop&utm_medium=open_data_stop_click&utm_campaign=open_data_click,,,0,Level 0,[...]

@@ -1,0 +1,2 @@
+﻿stop_id,stop_name,stop_lat,stop_lon,stop_url,location_type,parent_station,wheelchair_boarding,level_id,platform_code
+"10117","Jordanville Station","-37.87360157","145.11197651","https://transport.vic.gov.au/stop/1105/?utm_source=open_data_click_stop&utm_medium=open_data_stop_click&utm_campaign=open_data_click","",[...]
