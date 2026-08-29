@@ -1,2 +1,0 @@
-﻿stop_id,stop_name,stop_lat,stop_lon,stop_url,location_type,parent_station,wheelchair_boarding,level_id
-"10311","Glenferrie Rd/Wattletree Rd #45","-37.86245520","145.02850849","https://transport.vic.gov.au/stop/2587/?utm_source=open_data_click_stop&utm_medium=open_data_stop_click&utm_campaign=open_da[...]
